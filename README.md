@@ -1,5 +1,5 @@
 EN
-- 👋 Hi, I’m @ara-brat21
+- 👋 Hi, I’m @Im-Araslanov
 - 👀 I’m interested in frontend development, especially creating responsive and user-friendly web applications.
 - 🌱 I’m currently learning Vue.js and plan to study React and TypeScript. As a junior developer, I have a lot to learn. My skills improved significantly through learning fundamental JavaScript concepts, working with APIs, and building projects with Vue.js.
 - 💞️ I’m looking to collaborate on exciting projects and innovative web solutions.
@@ -9,7 +9,7 @@ EN
 
 
 RU
-- 👋 Привет, я @ara-brat21
+- 👋 Привет, я @Im-Araslanov
 - 👀 Меня интересует фронтенд-разработка, особенно создание адаптивных и удобных веб-приложений.
 - 🌱 В настоящее время изучаю Vue.js и планирую изучать React и TypeScript. Как начинающий разработчик, мне предстоит многому научиться.
 - 💞️ Ищу возможность сотрудничать над интересными проектами и с инновационными веб-решениями.
